@@ -5,5 +5,5 @@ module com.example.geekbrainscloudstorage {
     requires org.controlsfx.controls;
 
     opens com.example.geekbrainscloudstorage to javafx.fxml;
-    exports com.example.geekbrainscloudstorage;
+
 }
